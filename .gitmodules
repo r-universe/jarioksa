@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jarioksa/jarioksa.r-universe.dev
 	branch = HEAD
-[submodule "lmodel2"]
-	path = lmodel2
-	url = https://github.com/cran/lmodel2
+[submodule "GO"]
+	path = GO
+	url = https://github.com/jarioksa/GO
+[submodule "natto"]
+	path = natto
+	url = https://github.com/jarioksa/natto
+[submodule "twinspan"]
+	path = twinspan
+	url = https://github.com/jarioksa/twinspan
