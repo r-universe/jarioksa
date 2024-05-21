@@ -5,6 +5,9 @@
 [submodule "GO"]
 	path = GO
 	url = https://github.com/jarioksa/GO
+[submodule "gravy"]
+	path = gravy
+	url = https://github.com/jarioksa/gravy
 [submodule "natto"]
 	path = natto
 	url = https://github.com/jarioksa/natto
