@@ -8,6 +8,9 @@
 [submodule "gravy"]
 	path = gravy
 	url = https://github.com/jarioksa/gravy
+[submodule "lmodel2"]
+	path = lmodel2
+	url = https://github.com/vegandevs/lmodel2
 [submodule "natto"]
 	path = natto
 	url = https://github.com/jarioksa/natto
